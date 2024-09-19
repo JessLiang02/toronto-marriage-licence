@@ -2,7 +2,7 @@
 title: "Marriage Licenses"
 subtitle: "Empicical Analysis of Marriage Licenses in Toronto"
 author: 
-  - Chenika Bukes
+  - Jing Liang
 thanks: "Code and data are available at: https://github.com/chenikabukes/MarriageLicenses"
 date: today
 date-format: long
