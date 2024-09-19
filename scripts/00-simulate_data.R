@@ -1,6 +1,6 @@
 #### Preamble ####
 # Purpose: Simulate data
-# Author: Chenika Bukes
+# Author: Jing Liang
 # Date: 19 September 2024
 # Contact: chenika.bukes@mail.utoronto.ca
 # License: MIT
